@@ -1,0 +1,9 @@
+$("h1").click(function(){
+$("#bts").show();
+});
+$("img").click(function(){
+    $("h3").show();
+});
+$("h3").click(function(){
+    $("ul").show();
+});
